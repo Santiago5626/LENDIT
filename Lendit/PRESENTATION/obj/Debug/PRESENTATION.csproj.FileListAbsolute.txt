@@ -1,0 +1,556 @@
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal.resources
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal.resources
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\ADMIN\Downloads\Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal.resources
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\Aprendiz 2\Desktop\Proyecto ADSO software de prestamos de equipos de computo\Interfaz\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal.resources
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal.resources
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\DAL.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\DAL.pdb
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Tercero.resources
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Editar_Tercero.resources
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.pdb
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Editar_Tercero.resources
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Tercero.resources
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Encargado.resources
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal.resources
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Buffers.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Memory.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Json.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.dll.config
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Buffers.xml
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Memory.xml
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Json.xml
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Javier\Downloads\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.dll.config
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Editar_Tercero.resources
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Tercero.resources
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Encargado.resources
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal.resources
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Buffers.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Memory.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Json.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.dll
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.dll.config
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Buffers.xml
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Memory.xml
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Json.xml
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.pdb
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.dll.config
+C:\Users\Mario Javier\OneDrive\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Buffers.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Memory.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Json.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.dll.config
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Buffers.xml
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.xml
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Memory.xml
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Json.xml
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.xml
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.pdb
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.dll.config
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Editar_Tercero.resources
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Tercero.resources
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Encargado.resources
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal.resources
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\marlo\Desktop\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Buffers.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Memory.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Json.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.dll
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\bll.dll.config
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Buffers.xml
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Memory.xml
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Text.Json.xml
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.pdb
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\bin\Debug\DAL.dll.config
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Editar_Tercero.resources
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Tercero.resources
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Inventario.resources
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Encargado.resources
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal.resources
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Equipo.resources
+C:\Users\Mario Javier\Downloads\RentaCompu (2)\RentaCompu\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Editar_Equipo.resources
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Editar_Equipo.resources
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Equipo.resources
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Encargado.resources
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Buffers.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Memory.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Json.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\bll.dll.config
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Buffers.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Memory.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Json.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\DAL.dll.config
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Inventario.resources
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Circulacion.resources
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.barcodes.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.commons.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.forms.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.io.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.kernel.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.layout.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.pdfa.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.sign.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.styledxmlparser.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.svg.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itextsharp.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.barcodes.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.commons.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.forms.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.io.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.kernel.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.layout.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.pdfa.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.sign.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.styledxmlparser.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.svg.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itextsharp.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Circulacion_Encargado.resources
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Circulacion_Encargado_borrador.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.barcodes.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.commons.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.forms.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.io.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.kernel.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.layout.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.pdfa.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.sign.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.svg.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Buffers.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Memory.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Json.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\DAL.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itextsharp.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\bll.dll.config
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.barcodes.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.commons.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.forms.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.io.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.kernel.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.layout.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.pdfa.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.sign.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.svg.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Buffers.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Memory.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Json.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\DAL.pdb
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\DAL.dll.config
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itextsharp.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Editar_Tercero.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Editar_Equipo.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Equipo.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Tercero.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Circulacion_Encargado.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Circulacion.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Encargado.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Circulacion_Encargado_borrador.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Inventario.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\Mario Javier\OneDrive\Desktop\Proyecto Lendit actualizado\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe.config
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.exe
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\PRESENTATION.pdb
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\bll.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Guna.UI2.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.barcodes.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.commons.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.forms.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.io.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.kernel.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.layout.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.pdfa.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.sign.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.styledxmlparser.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.svg.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Buffers.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Memory.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Json.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\DAL.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itextsharp.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\bll.pdb
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\bll.dll.config
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\ENTITY.pdb
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.barcodes.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.commons.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.forms.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.io.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.kernel.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.layout.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.pdfa.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.sign.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.styledxmlparser.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itext.svg.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Buffers.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Formats.Asn1.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Memory.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Text.Json.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\System.ValueTuple.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\DAL.pdb
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\DAL.dll.config
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\itextsharp.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Editar_Tercero.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Editar_Equipo.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Principal_Configuracion.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Equipo.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Tercero.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Login.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Circulacion_Encargado.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Circulacion.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Encargado.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Circulacion_Encargado_borrador.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal_Inventario.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Principal.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Properties.Resources.resources
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.GenerateResource.cache
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTA.B379B572.Up2Date
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.exe
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.pdb
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\PRESENTATION\obj\Debug\PRESENTATION.Form_Registrar_Tercero_Usuario.resources

@@ -1,0 +1,36 @@
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\ESTUDIANTES\Downloads\Lendit\Lendit\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\Aprendiz 2\Downloads\Lendit\Lendit\Lendit\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\ESTUDIANTES\Downloads\Lendit2\Lendit2\Lendit\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\marlo\Desktop\Proyecto Lendit\Lendit\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\marlo\Desktop\RentaCompu\Lendit\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\marlo\Desktop\RentaCompu\Lendit\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\RentaCompu\Lendit\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\RentaCompu\Lendit\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\marlo\Desktop\RentaCompu\Lendit\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\marlo\Desktop\Epson Software\Proyecto Lendit\Lendit\ENTITY\obj\Debug\ENTITY.pdb

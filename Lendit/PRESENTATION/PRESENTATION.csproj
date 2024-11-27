@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5552DB9E-876D-4FB0-95E6-96203B64C02B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PRESENTATION</RootNamespace>
+    <AssemblyName>PRESENTATION</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.8.9\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.barcodes, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.5\lib\net461\itext.barcodes.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.commons, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.commons.7.2.5\lib\net461\itext.commons.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.forms, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.5\lib\net461\itext.forms.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.io, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.5\lib\net461\itext.io.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.kernel, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.5\lib\net461\itext.kernel.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.layout, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.5\lib\net461\itext.layout.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.pdfa, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.5\lib\net461\itext.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.sign, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.5\lib\net461\itext.sign.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.styledxmlparser, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.5\lib\net461\itext.styledxmlparser.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.svg, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.5\lib\net461\itext.svg.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.8.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.5.0.0\lib\net461\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.5.0.0\lib\net461\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.5.0.0\lib\net461\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.23.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.23.6.0\lib\net472\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=6.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.6.0.1\lib\net461\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Formats.Asn1, Version=8.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Formats.Asn1.8.0.1\lib\net462\System.Formats.Asn1.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.8.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=8.0.0.4, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.8.0.4\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form_Editar_Tercero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Editar_Tercero.Designer.cs">
+      <DependentUpon>Form_Editar_Tercero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Editar_Equipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Editar_Equipo.Designer.cs">
+      <DependentUpon>Form_Editar_Equipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Principal_Configuracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Principal_Configuracion.Designer.cs">
+      <DependentUpon>Form_Principal_Configuracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Registrar_Equipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Registrar_Equipo.Designer.cs">
+      <DependentUpon>Form_Registrar_Equipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Registrar_Tercero_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Registrar_Tercero_Usuario.Designer.cs">
+      <DependentUpon>Form_Registrar_Tercero_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Registrar_Tercero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Registrar_Tercero.Designer.cs">
+      <DependentUpon>Form_Registrar_Tercero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal_Circulacion_Encargado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal_Circulacion_Encargado.Designer.cs">
+      <DependentUpon>Principal_Circulacion_Encargado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal_Circulacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal_Circulacion.Designer.cs">
+      <DependentUpon>Principal_Circulacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal_Encargado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal_Encargado.Designer.cs">
+      <DependentUpon>Principal_Encargado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal_Circulacion_Encargado_borrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal_Circulacion_Encargado_borrador.Designer.cs">
+      <DependentUpon>Principal_Circulacion_Encargado_borrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal_Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal_Inventario.Designer.cs">
+      <DependentUpon>Principal_Inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Oracle.ManagedDataAccess.Client.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\bll\BLL.csproj">
+      <Project>{510a8e6b-900f-4236-a29c-57aa8c3bb807}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ENTITY\ENTITY.csproj">
+      <Project>{299a5bea-8ca6-4224-a263-2f59d3e01699}</Project>
+      <Name>ENTITY</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form_Editar_Tercero.resx">
+      <DependentUpon>Form_Editar_Tercero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Editar_Equipo.resx">
+      <DependentUpon>Form_Editar_Equipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Principal_Configuracion.resx">
+      <DependentUpon>Form_Principal_Configuracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Registrar_Equipo.resx">
+      <DependentUpon>Form_Registrar_Equipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Registrar_Tercero_Usuario.resx">
+      <DependentUpon>Form_Registrar_Tercero_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Registrar_Tercero.resx">
+      <DependentUpon>Form_Registrar_Tercero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal_Circulacion_Encargado.resx">
+      <DependentUpon>Principal_Circulacion_Encargado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal_Circulacion.resx">
+      <DependentUpon>Principal_Circulacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal_Encargado.resx">
+      <DependentUpon>Principal_Encargado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal_Circulacion_Encargado_borrador.resx">
+      <DependentUpon>Principal_Circulacion_Encargado_borrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal_Inventario.resx">
+      <DependentUpon>Principal_Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rectangle 22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rectangle 21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rectangulo_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_inicio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_inicio2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_circulacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_Circulacion2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_reportes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_Reportes2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_inventario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_inventario2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_Configuracion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_cerrar_session.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contenedor2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contenedor1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contenedor_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circulo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contenedor_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_agregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_agregar_equipo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_editar_equipo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_descargar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contenedor10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contenedor9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contenedor8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_agregar_equipo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_Registrar_Devolución.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

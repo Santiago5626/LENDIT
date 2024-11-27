@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\presentation\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|c:\\users\\aprendiz 2\\desktop\\proyecto adso software de prestamos de equipos de computo\\interfaz\\lendit2\\lendit\\presentation\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\presentation\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\PRESENTATION\\Principal.Designer.cs",
+              "RelativeDocumentMoniker": "PRESENTATION\\Principal.Designer.cs",
+              "ToolTip": "C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\PRESENTATION\\Principal.Designer.cs",
+              "RelativeToolTip": "PRESENTATION\\Principal.Designer.cs",
+              "ViewState": "AgIAAPcBAAAAAAAAAAAMwBECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:21:32.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\PRESENTATION\\Principal.cs",
+              "RelativeDocumentMoniker": "PRESENTATION\\Principal.cs",
+              "ToolTip": "C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\PRESENTATION\\Principal.cs",
+              "RelativeToolTip": "PRESENTATION\\Principal.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwHAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:38:06.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\PRESENTATION\\Principal.cs",
+              "RelativeDocumentMoniker": "PRESENTATION\\Principal.cs",
+              "ToolTip": "C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\PRESENTATION\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PRESENTATION\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:16:24.338Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\PRESENTATION\\Login.cs",
+              "RelativeDocumentMoniker": "PRESENTATION\\Login.cs",
+              "ToolTip": "C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\PRESENTATION\\Login.cs",
+              "RelativeToolTip": "PRESENTATION\\Login.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:19:15.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aprendiz 2\\Desktop\\Proyecto ADSO software de prestamos de equipos de computo\\Interfaz\\Lendit2\\Lendit\\PRESENTATION\\Login.cs",
+              "RelativeDocumentMoniker": "PRESENTATION\\Login.cs",
+              "ToolTip": "C:\\Users\\Aprendiz 2\\Downloads\\Lendit\\Lendit\\Lendit\\PRESENTATION\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Lendit\\Lendit\\Lendit\\PRESENTATION\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:58:30.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
