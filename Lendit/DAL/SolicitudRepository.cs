@@ -114,13 +114,13 @@ namespace DAL
                 Command.CommandText = @"
             SELECT 
                 so.IDSOLICITUD,
-                 t.primer_nombre || ' ' || t.segundo_nombre || ' ' || t.primer_apellido || ' ' || t.segundo_apellido AS NOMBRE,
-                 t.identificacion, 
-                 t.telefono, 
-                 t.correo, 
-                 f.CODFICHA,
-                 p.CODPROGRAMA,
-                 LISTAGG(po.codigointerno, ', ') WITHIN GROUP (ORDER BY po.codigointerno) AS CODIGOSINTERNOS
+                t.primer_nombre || ' ' || t.segundo_nombre || ' ' || t.primer_apellido || ' ' || t.segundo_apellido AS NOMBRE,
+                t.identificacion, 
+                t.telefono, 
+                t.correo, 
+                f.CODFICHA,
+                p.CODPROGRAMA,
+                LISTAGG(po.codigointerno, ', ') WITHIN GROUP (ORDER BY po.codigointerno) AS CODIGOSINTERNOS
              FROM 
                  GS_TERCERO t
              LEFT JOIN 
@@ -136,12 +136,12 @@ namespace DAL
              JOIN 
                 GS_ROL_SOLICITANTE soo ON soo.IDROLSOLICITANTE = t.IDROL
              WHERE 
-                 soo.NOMBRE_ROL_SOLICITANTE != 'Usuario' AND
+                 po.ESTADO = 'No disponible' and so.estado = 'No devuelto' AND  soo.NOMBRE_ROL_SOLICITANTE != 'Usuario' and
                  t.identificacion = :identificacion
                  or so.codigointerno = :codigoInterno
                      GROUP BY 
-                         t.primer_nombre, t.segundo_nombre, t.primer_apellido, t.segundo_apellido, 
-                         t.identificacion, t.telefono, t.correo, f.CODFICHA, p.CODPROGRAMA,so.IDSOLICITUD";
+                         so.IDSOLICITUD, t.primer_nombre, t.segundo_nombre, t.primer_apellido, t.segundo_apellido, 
+                          t.identificacion, t.telefono, t.correo, f.CODFICHA, p.CODPROGRAMA";
                 Command.CommandType = CommandType.Text;
 
                 // Parámetros para evitar inyecciones SQL

@@ -68,12 +68,12 @@ namespace PRESENTATION
             guna2DataGridView1.Columns["Identificación"].Width = 120;
             guna2DataGridView1.Columns.Add("Teléfono", "Teléfono");
             guna2DataGridView1.Columns["Teléfono"].Width = 120;
+            guna2DataGridView1.Columns.Add("correo", "Teléfono");
+            guna2DataGridView1.Columns["correo"].Width = 120;
             guna2DataGridView1.Columns.Add("Ficha", "Ficha");
             guna2DataGridView1.Columns["Ficha"].Width = 150;
             guna2DataGridView1.Columns.Add("Programa", "Programa");
             guna2DataGridView1.Columns["Programa"].Width = 200;
-            guna2DataGridView1.Columns.Add("ESTADO", "Estado");
-            guna2DataGridView1.Columns["ESTADO"].Width = 100;
             guna2DataGridView1.Columns.Add("CODIGOINTERNO", "Código Interno");
             guna2DataGridView1.Columns["CODIGOINTERNO"].Width = 300;
 
@@ -152,6 +152,7 @@ namespace PRESENTATION
                     {
                         guna2DataGridView1.Rows.Add(
                             false, // Columna de selección
+                            row["IDSOLICITUD"] != null ? Convert.ToInt32(row["IDSOLICITUD"]) : 0,
                             row["NOMBRE"]?.ToString() ?? string.Empty, // Nombre completo del tercero
                             row["IDENTIFICACION"]?.ToString() ?? string.Empty, // Identificación del tercero
                             row["TELEFONO"]?.ToString() ?? string.Empty, // Teléfono
