@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\presentation\\principal_circulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|c:\\users\\marlo\\desktop\\epson software\\proyecto lendit\\lendit\\presentation\\principal_circulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\principal_circulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,12 +15,8 @@
       "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\principal_circulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCDAB5B8-C6AC-48A0-80EC-E141B4AB90DA}|DAL\\DAL.csproj|c:\\users\\marlo\\desktop\\epson software\\proyecto lendit\\lendit\\dal\\solicitudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCDAB5B8-C6AC-48A0-80EC-E141B4AB90DA}|DAL\\DAL.csproj|C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\dal\\solicitudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCDAB5B8-C6AC-48A0-80EC-E141B4AB90DA}|DAL\\DAL.csproj|solutionrelative:dal\\solicitudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|c:\\users\\marlo\\desktop\\epson software\\proyecto lendit\\lendit\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SolicitudRepository.cs",
               "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\DAL\\SolicitudRepository.cs",
               "RelativeDocumentMoniker": "DAL\\SolicitudRepository.cs",
@@ -38,46 +38,44 @@
               "RelativeToolTip": "DAL\\SolicitudRepository.cs",
               "ViewState": "AQIAAG4AAAAAAAAAAAAgwHcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T05:19:54.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T05:19:54.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Program.cs",
               "RelativeDocumentMoniker": "PRESENTATION\\Program.cs",
               "ToolTip": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Program.cs",
               "RelativeToolTip": "PRESENTATION\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T04:58:46.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Principal_Circulacion.cs",
               "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs",
               "RelativeDocumentMoniker": "PRESENTATION\\Principal_Circulacion.cs",
               "ToolTip": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs",
               "RelativeToolTip": "PRESENTATION\\Principal_Circulacion.cs",
-              "ViewState": "AQIAAIgAAAAAAAAAAAAkwKAAAABdAAAA",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAgwJcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T04:57:02.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Principal_Circulacion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs",
               "RelativeDocumentMoniker": "PRESENTATION\\Principal_Circulacion.cs",
               "ToolTip": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs [Dise\u00F1o]",
               "RelativeToolTip": "PRESENTATION\\Principal_Circulacion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:57:01.142Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-27T04:57:01.142Z"
             }
           ]
         }

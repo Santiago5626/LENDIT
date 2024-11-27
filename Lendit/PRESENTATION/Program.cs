@@ -16,8 +16,8 @@ namespace PRESENTATION
         static void Main(string[] args)
         {
             Application.EnableVisualStyles();
-           //  Login principal = new Login();
-           Principal principal = new Principal();
+            Login principal = new Login();
+           //Principal principal = new Principal();
             Application.Run(principal);
         }
     }

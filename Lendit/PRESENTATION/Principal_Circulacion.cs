@@ -150,6 +150,7 @@ namespace PRESENTATION
                     guna2DataGridView1.Rows.Clear();
                     foreach (DataRow row in dtProductos.Rows)
                     {
+                       
                         guna2DataGridView1.Rows.Add(
                             false, // Columna de selección
                             row["IDSOLICITUD"] != null ? Convert.ToInt32(row["IDSOLICITUD"]) : 0,
