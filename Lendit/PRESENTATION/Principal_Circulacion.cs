@@ -338,7 +338,7 @@ namespace PRESENTATION
             Console.WriteLine("IDENTIFICACION: " + identificacion);
             Console.WriteLine("CODIGOINTERNO: " + codigoInterno);
 
-            // Llamar al servicio para registrar la solicitud
+    
             string resultado = solicitudService.RegistrarSolicitud(
                 identificacion,
                 codigoInterno,
@@ -520,6 +520,12 @@ namespace PRESENTATION
         private void Button_Circulacion_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Button_Configuracion_Click(object sender, EventArgs e)
+        {
+            Form_Registrar_Tercero_Usuario principal_configuracion = new Form_Registrar_Tercero_Usuario();
+            principal_configuracion.Show();
         }
     }
 }

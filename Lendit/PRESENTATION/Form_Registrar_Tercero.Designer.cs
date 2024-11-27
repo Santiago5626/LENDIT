@@ -35,7 +35,6 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
             this.btnRegistrar = new Guna.UI2.WinForms.Guna2Button();
             this.txtIdentificacion = new Guna.UI2.WinForms.Guna2TextBox();
             this.txtPrimerNombre = new Guna.UI2.WinForms.Guna2TextBox();
@@ -51,6 +50,9 @@
             this.cbFicha = new Guna.UI2.WinForms.Guna2ComboBox();
             this.label9 = new System.Windows.Forms.Label();
             this.cbCodigoPrograma = new Guna.UI2.WinForms.Guna2ComboBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -66,6 +68,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
             this.label2.Location = new System.Drawing.Point(90, 107);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(95, 16);
@@ -75,6 +78,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
+            this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
             this.label4.Location = new System.Drawing.Point(89, 250);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(98, 16);
@@ -84,6 +88,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
+            this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
             this.label5.Location = new System.Drawing.Point(90, 322);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(114, 16);
@@ -93,6 +98,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
+            this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
             this.label6.Location = new System.Drawing.Point(90, 395);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(48, 16);
@@ -102,6 +108,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
+            this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
             this.label7.Location = new System.Drawing.Point(90, 465);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(61, 16);
@@ -111,20 +118,12 @@
             // label8
             // 
             this.label8.AutoSize = true;
+            this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
             this.label8.Location = new System.Drawing.Point(90, 539);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(52, 16);
             this.label8.TabIndex = 7;
             this.label8.Text = "Genero";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(92, 611);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(28, 16);
-            this.label10.TabIndex = 10;
-            this.label10.Text = "Rol";
             // 
             // btnRegistrar
             // 
@@ -135,7 +134,7 @@
             this.btnRegistrar.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
             this.btnRegistrar.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnRegistrar.ForeColor = System.Drawing.Color.White;
-            this.btnRegistrar.Location = new System.Drawing.Point(115, 796);
+            this.btnRegistrar.Location = new System.Drawing.Point(114, 831);
             this.btnRegistrar.Name = "btnRegistrar";
             this.btnRegistrar.Size = new System.Drawing.Size(209, 45);
             this.btnRegistrar.TabIndex = 21;
@@ -345,7 +344,7 @@
             this.cbRolSolicitante.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.cbRolSolicitante.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
             this.cbRolSolicitante.ItemHeight = 30;
-            this.cbRolSolicitante.Location = new System.Drawing.Point(89, 621);
+            this.cbRolSolicitante.Location = new System.Drawing.Point(89, 631);
             this.cbRolSolicitante.Name = "cbRolSolicitante";
             this.cbRolSolicitante.Size = new System.Drawing.Size(279, 36);
             this.cbRolSolicitante.TabIndex = 34;
@@ -354,6 +353,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
             this.label3.Location = new System.Drawing.Point(92, 179);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(111, 16);
@@ -382,7 +382,7 @@
             this.cbFicha.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.cbFicha.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
             this.cbFicha.ItemHeight = 30;
-            this.cbFicha.Location = new System.Drawing.Point(89, 728);
+            this.cbFicha.Location = new System.Drawing.Point(89, 754);
             this.cbFicha.Name = "cbFicha";
             this.cbFicha.Size = new System.Drawing.Size(279, 36);
             this.cbFicha.TabIndex = 37;
@@ -414,11 +414,41 @@
             "Seleccionar",
             "Masculino",
             "Femenino"});
-            this.cbCodigoPrograma.Location = new System.Drawing.Point(89, 673);
+            this.cbCodigoPrograma.Location = new System.Drawing.Point(91, 693);
             this.cbCodigoPrograma.Name = "cbCodigoPrograma";
             this.cbCodigoPrograma.Size = new System.Drawing.Size(279, 36);
             this.cbCodigoPrograma.TabIndex = 33;
             this.cbCodigoPrograma.SelectedIndexChanged += new System.EventHandler(this.cbCodigoPrograma_SelectedIndexChanged);
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
+            this.label10.Location = new System.Drawing.Point(92, 611);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(28, 16);
+            this.label10.TabIndex = 10;
+            this.label10.Text = "Rol";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
+            this.label12.Location = new System.Drawing.Point(92, 677);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(67, 16);
+            this.label12.TabIndex = 38;
+            this.label12.Text = "Programa";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(77)))));
+            this.label13.Location = new System.Drawing.Point(92, 735);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(40, 16);
+            this.label13.TabIndex = 39;
+            this.label13.Text = "Ficha";
             // 
             // Form_Registrar_Tercero
             // 
@@ -426,6 +456,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(562, 979);
+            this.Controls.Add(this.label13);
+            this.Controls.Add(this.label12);
             this.Controls.Add(this.cbFicha);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.txtSegundoApellido);
@@ -467,7 +499,6 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label10;
         private Guna.UI2.WinForms.Guna2Button btnRegistrar;
         private Guna.UI2.WinForms.Guna2TextBox txtIdentificacion;
         private Guna.UI2.WinForms.Guna2TextBox txtPrimerNombre;
@@ -483,5 +514,8 @@
         private Guna.UI2.WinForms.Guna2ComboBox cbFicha;
         private System.Windows.Forms.Label label9;
         private Guna.UI2.WinForms.Guna2ComboBox cbCodigoPrograma;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label label13;
     }
 }

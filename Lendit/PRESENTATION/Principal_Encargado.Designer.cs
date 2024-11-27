@@ -43,7 +43,6 @@
             this.txtCdFicha = new Guna.UI2.WinForms.Guna2TextBox();
             this.Button_agregar = new Guna.UI2.WinForms.Guna2Button();
             this.Button_Editar = new Guna.UI2.WinForms.Guna2Button();
-            this.Button_Eliminar = new Guna.UI2.WinForms.Guna2Button();
             this.Button_Buscarporficha = new Guna.UI2.WinForms.Guna2Button();
             this.Button_BuscarporID = new Guna.UI2.WinForms.Guna2Button();
             this.label15 = new System.Windows.Forms.Label();
@@ -298,23 +297,6 @@
             this.Button_Editar.Size = new System.Drawing.Size(55, 44);
             this.Button_Editar.TabIndex = 46;
             this.Button_Editar.Click += new System.EventHandler(this.Button_Editar_Click);
-            // 
-            // Button_Eliminar
-            // 
-            this.Button_Eliminar.BorderColor = System.Drawing.Color.Transparent;
-            this.Button_Eliminar.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.Button_Eliminar.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.Button_Eliminar.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.Button_Eliminar.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.Button_Eliminar.FillColor = System.Drawing.Color.White;
-            this.Button_Eliminar.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.Button_Eliminar.ForeColor = System.Drawing.Color.White;
-            this.Button_Eliminar.Image = global::PRESENTATION.Properties.Resources.Icono_eliminar;
-            this.Button_Eliminar.Location = new System.Drawing.Point(1273, 337);
-            this.Button_Eliminar.Margin = new System.Windows.Forms.Padding(4);
-            this.Button_Eliminar.Name = "Button_Eliminar";
-            this.Button_Eliminar.Size = new System.Drawing.Size(55, 44);
-            this.Button_Eliminar.TabIndex = 45;
             // 
             // Button_Buscarporficha
             // 
@@ -717,7 +699,6 @@
             this.Controls.Add(this.label_Nombreusuario);
             this.Controls.Add(this.Button_agregar);
             this.Controls.Add(this.Button_Editar);
-            this.Controls.Add(this.Button_Eliminar);
             this.Controls.Add(this.Button_Buscarporficha);
             this.Controls.Add(this.Button_BuscarporID);
             this.Controls.Add(this.txtCdFicha);
@@ -784,7 +765,6 @@
         private Guna.UI2.WinForms.Guna2TextBox txtCdFicha;
         private Guna.UI2.WinForms.Guna2Button Button_BuscarporID;
         private Guna.UI2.WinForms.Guna2Button Button_Buscarporficha;
-        private Guna.UI2.WinForms.Guna2Button Button_Eliminar;
         private Guna.UI2.WinForms.Guna2Button Button_Editar;
         private Guna.UI2.WinForms.Guna2Button Button_agregar;
         public Guna.UI2.WinForms.Guna2HtmlLabel label_Nombreusuario;

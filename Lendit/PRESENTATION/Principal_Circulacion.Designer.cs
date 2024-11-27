@@ -329,6 +329,7 @@
             this.Button_Configuracion.TabIndex = 21;
             this.Button_Configuracion.Text = "Configuración";
             this.Button_Configuracion.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.Button_Configuracion.Click += new System.EventHandler(this.Button_Configuracion_Click);
             // 
             // Button_Inventario
             // 

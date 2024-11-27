@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|c:\\users\\marlo\\desktop\\epson software\\proyecto lendit\\lendit\\presentation\\principal_circulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\principal_circulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\presentation\\principal_circulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|c:\\users\\marlo\\desktop\\epson software\\proyecto lendit\\lendit\\presentation\\principal_circulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\principal_circulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|c:\\users\\marlo\\desktop\\epson software\\proyecto lendit\\lendit\\presentation\\principal_inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\principal_inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDAB5B8-C6AC-48A0-80EC-E141B4AB90DA}|DAL\\DAL.csproj|c:\\users\\marlo\\desktop\\epson software\\proyecto lendit\\lendit\\dal\\tercerorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDAB5B8-C6AC-48A0-80EC-E141B4AB90DA}|DAL\\DAL.csproj|solutionrelative:dal\\tercerorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCDAB5B8-C6AC-48A0-80EC-E141B4AB90DA}|DAL\\DAL.csproj|C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\dal\\solicitudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCDAB5B8-C6AC-48A0-80EC-E141B4AB90DA}|DAL\\DAL.csproj|solutionrelative:dal\\solicitudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|c:\\users\\marlo\\desktop\\epson software\\proyecto lendit\\lendit\\presentation\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|c:\\users\\marlo\\desktop\\epson software\\proyecto lendit\\lendit\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5552DB9E-876D-4FB0-95E6-96203B64C02B}|PRESENTATION\\PRESENTATION.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +38,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal_Circulacion.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs",
+              "RelativeDocumentMoniker": "PRESENTATION\\Principal_Circulacion.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs",
+              "RelativeToolTip": "PRESENTATION\\Principal_Circulacion.cs",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAEwFQBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:54:27.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Principal_Circulacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs",
+              "RelativeDocumentMoniker": "PRESENTATION\\Principal_Circulacion.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PRESENTATION\\Principal_Circulacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:54:25.367Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal_Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Inventario.cs",
+              "RelativeDocumentMoniker": "PRESENTATION\\Principal_Inventario.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Inventario.cs",
+              "RelativeToolTip": "PRESENTATION\\Principal_Inventario.cs",
+              "ViewState": "AQIAABYBAAAAAAAAAAAEwDsBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:42:43.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal.cs",
+              "RelativeDocumentMoniker": "PRESENTATION\\Principal.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal.cs",
+              "RelativeToolTip": "PRESENTATION\\Principal.cs",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAewGUBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:42:20.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TerceroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\DAL\\TerceroRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\TerceroRepository.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\DAL\\TerceroRepository.cs",
+              "RelativeToolTip": "DAL\\TerceroRepository.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAAwwCgBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:38:52.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SolicitudRepository.cs",
               "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\DAL\\SolicitudRepository.cs",
               "RelativeDocumentMoniker": "DAL\\SolicitudRepository.cs",
@@ -38,11 +114,12 @@
               "RelativeToolTip": "DAL\\SolicitudRepository.cs",
               "ViewState": "AQIAAG4AAAAAAAAAAAAgwHcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T05:19:54.218Z"
+              "WhenOpened": "2024-11-27T05:19:54.218Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Program.cs",
               "RelativeDocumentMoniker": "PRESENTATION\\Program.cs",
@@ -52,30 +129,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T04:58:46.331Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Principal_Circulacion.cs",
-              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs",
-              "RelativeDocumentMoniker": "PRESENTATION\\Principal_Circulacion.cs",
-              "ToolTip": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs",
-              "RelativeToolTip": "PRESENTATION\\Principal_Circulacion.cs",
-              "ViewState": "AQIAAGsAAAAAAAAAAAAgwJcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:57:02.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Principal_Circulacion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs",
-              "RelativeDocumentMoniker": "PRESENTATION\\Principal_Circulacion.cs",
-              "ToolTip": "C:\\Users\\marlo\\Desktop\\Epson Software\\Proyecto Lendit\\Lendit\\PRESENTATION\\Principal_Circulacion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PRESENTATION\\Principal_Circulacion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:57:01.142Z"
             }
           ]
         }
