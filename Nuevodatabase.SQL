@@ -269,97 +269,107 @@ create or replace NONEDITIONABLE PACKAGE PKG_SOLICITUD AS
     PROCEDURE INSERTAR_SOLICITUD(
         p_identificacion     IN VARCHAR2,
         p_codigo_interno     IN VARCHAR2,
-        p_estado_producto    IN NUMBER
+        p_estado_producto    IN NUMBER,
+        p_id_solicitud       IN NUMBER   -- Añadido este parámetro
     );
 END PKG_SOLICITUD;
 
-CREATE OR REPLACE NONEDITIONABLE PACKAGE BODY PKG_SOLICITUD AS
 
+create or replace NONEDITIONABLE PACKAGE BODY PKG_SOLICITUD AS
     PROCEDURE INSERTAR_SOLICITUD(
         p_identificacion     IN VARCHAR2,
         p_codigo_interno     IN VARCHAR2,
-        p_estado_producto    IN NUMBER
+        p_estado_producto    IN NUMBER,
+        p_id_solicitud       IN NUMBER 
     ) IS
         v_id_solicitud   NUMBER;
         v_count_tercero  NUMBER;
         v_count_producto NUMBER;
-        v_estado_producto_actual VARCHAR2(20); -- Variable to store current product state
-        v_count_solicitud NUMBER;  -- Variable to check if an active request already exists
+       v_estado_producto_actual VARCHAR2(20); -- Variable para almacenar el estado actual del producto
+        v_count_solicitud NUMBER;  -- Variable para verificar si ya existe una solicitud activa
     BEGIN
 
-        -- Verify if there is an active (not returned) request for this product and identification
+        
+
+        /*-- Verificar si ya existe una solicitud activa (no devuelta) para este producto e identificación
         SELECT COUNT(*)
         INTO v_count_solicitud
         FROM GS_SOLICITUD
         WHERE IDENTIFICACION = p_identificacion
           AND CODIGOINTERNO = p_codigo_interno
-          AND ESTADO != 'Devuelto';  -- Only check requests that are not returned
+          AND ESTADO != 'Devuelto';  -- Solo verificamos solicitudes que no han sido devueltas
 
         IF v_count_solicitud > 0 THEN
-            RAISE_APPLICATION_ERROR(-20004, 'An active request already exists for this product and identification.');
+            RAISE_APPLICATION_ERROR(-20004, 'Ya existe una solicitud activa para este producto e identificación.');
         END IF;
-
-        -- Handle product state
-        IF p_estado_producto = 1 THEN
-            -- Validate that the main product exists in GS_PRODUCTO
+*/
+        -- Condicional para manejar el estado del producto
+            IF p_estado_producto = 1 THEN
+            -- Validar que el producto principal exista en GS_PRODUCTO
             SELECT COUNT(*)
             INTO v_count_producto
             FROM GS_PRODUCTO
             WHERE CODIGOINTERNO = p_codigo_interno;
 
             IF v_count_producto = 0 THEN
-                 RAISE_APPLICATION_ERROR(-20002, 'El codigo del producto no existe en GS_PRODUCTO.');
+                 RAISE_APPLICATION_ERROR(-20002, 'El código interno del producto no existe en GS_PRODUCTO.');
             END IF;
 
-            -- Validate that the identification exists in GS_TERCERO
+            -- Validar que la identificación exista en GS_TERCERO
             SELECT COUNT(*)
             INTO v_count_tercero
             FROM GS_TERCERO
             WHERE IDENTIFICACION = p_identificacion;
 
             IF v_count_tercero = 0 THEN
-                RAISE_APPLICATION_ERROR(-20001, 'La identificacion no existe en tercero');
+                RAISE_APPLICATION_ERROR(-20001, 'La identificación no existe en GS_TERCERO.');
             END IF;
-
+            -- Validar si el producto ya tiene el estado 'No disponible'
             SELECT ESTADO
             INTO v_estado_producto_actual
             FROM GS_PRODUCTO
             WHERE CODIGOINTERNO = p_codigo_interno;
 
             IF v_estado_producto_actual = 'No disponible' THEN
-                RAISE_APPLICATION_ERROR(-20003, 'The selected product is marked as "Not available". Please choose another product.');
+                RAISE_APPLICATION_ERROR(-20003, 'El producto seleccionado está marcado como "No disponible". Seleccione otro producto.');
             END IF;
-
-            -- Insert into GS_SOLICITUD with the current date
+ 
+            -- Insertar en GS_SOLICITUD con la fecha de hoy
             INSERT INTO GS_SOLICITUD (IDSOLICITUD, IDENTIFICACION, CODIGOINTERNO, FECHAREGISTRO, ESTADO)
             VALUES (GS_SOLICITUD_SEQ.NEXTVAL, p_identificacion, p_codigo_interno, SYSDATE, 'No devuelto')
             RETURNING IDSOLICITUD INTO v_id_solicitud;
 
-            -- Insert into GS_PRODUCTOSOLICITUD for the product
+            -- Insertar en GS_PRODUCTOSOLICITUD para el producto
             INSERT INTO GS_PRODUCTOSOLICITUD (IDPRODUCTOSOLICITUD, CODIGOINTERNO, SOLICITUD_S)
             VALUES (GS_PRODUCTOSOLICITUD_SEQ.NEXTVAL, p_codigo_interno, v_id_solicitud);
 
-            -- Insert into HS_PRESTAMO
+            -- Insertar en HS_PRESTAMO
             INSERT INTO HS_PRESTAMO (IDPRESTAMO, IDSOLICITUD, FECHA_REGISTRO)
             VALUES (HS_PRESTAMO_SEQ.NEXTVAL, v_id_solicitud, SYSDATE);
 
+            -- Actualizar el estado del producto a No disponible
             UPDATE GS_PRODUCTO
             SET ESTADO = 'No disponible'
             WHERE CODIGOINTERNO = p_codigo_interno;
 
+            -- Actualizar el estado de la solicitud a 'No devuelto'
             UPDATE GS_SOLICITUD
             SET ESTADO = 'No devuelto'
-            WHERE IDSOLICITUD = v_id_solicitud;
+            WHERE  IDSOLICITUD = v_id_solicitud;
+         
+          
 
         ELSIF p_estado_producto = 2 THEN
+            -- Solo actualizar el estado del producto a 'Disponible'
             UPDATE GS_PRODUCTO
             SET ESTADO = 'Disponible'
-            WHERE CODIGOINTERNO = (SELECT CODIGOINTERNO FROM GS_SOLICITUD WHERE IDSOLICITUD = v_id_solicitud);
+            WHERE CODIGOINTERNO = (select CODIGOINTERNO from gs_solicitud where IDSOLICITUD = p_id_solicitud group by CODIGOINTERNO );
 
+            -- Actualizar el estado de la solicitud a 'Devuelto'
             UPDATE GS_SOLICITUD
             SET ESTADO = 'Devuelto'
-            WHERE IDSOLICITUD = v_id_solicitud;
-
+            WHERE IDSOLICITUD = p_id_solicitud; 
+           
         END IF;
 
         COMMIT;
@@ -369,7 +379,6 @@ CREATE OR REPLACE NONEDITIONABLE PACKAGE BODY PKG_SOLICITUD AS
             ROLLBACK;
             RAISE;
     END INSERTAR_SOLICITUD;
-
 END PKG_SOLICITUD;
 
 
