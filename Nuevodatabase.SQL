@@ -1,30 +1,19 @@
+GRANT ALL PRIVILEGES TO SYSTEM;
+
 -- Crear las secuencias primero
 CREATE SEQUENCE GS_PROGRAMAS_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_FICHA_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_TERCERO_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_ROL_SOLICITANTE_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_SOLICITANTE_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_ROLUSUARIO_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_USUARIO_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_TIPO_PRODUCTO_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_PRODUCTO_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_SOLICITUD_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_PRODUCTOSOLICITUD_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE HS_PRESTAMO_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_SANCION_SEQ START WITH 1 INCREMENT BY 1;
-
 CREATE SEQUENCE GS_LOG_TRAZABILIDAD_SEQ START WITH 1 INCREMENT BY 1;
 
 -- Crear las tablas
@@ -73,10 +62,9 @@ CREATE TABLE GS_SOLICITANTE (
     CONSTRAINT fk_idcodiprograma FOREIGN KEY (CODPROGRAMA) REFERENCES GS_PROGRAMAS (CODPROGRAMA)
 );
     
-    CREATE TABLE GS_ROLUSUARIO (
-        IDROL NUMBER PRIMARY KEY,
-        NOMBRE_ROL VARCHAR(30)
-    );
+CREATE TABLE GS_ROLUSUARIO (
+    IDROL NUMBER PRIMARY KEY,
+    NOMBRE_ROL VARCHAR(30));
 
 CREATE TABLE GS_USUARIO (
     IDUSUARIO NUMBER PRIMARY KEY,
@@ -110,11 +98,11 @@ CREATE TABLE GS_SOLICITUD (
     IDENTIFICACION VARCHAR(30),
     CODIGOINTERNO VARCHAR(100),
     FECHAREGISTRO DATE,
+    ESTADO VARCHAR(20),
     CONSTRAINT FK_IDTERCEROUSUARIO_S FOREIGN KEY (IDENTIFICACION) REFERENCES GS_TERCERO(IDENTIFICACION),
     CONSTRAINT FK_IDPRODUCTO_S FOREIGN KEY (CODIGOINTERNO) REFERENCES GS_PRODUCTO(CODIGOINTERNO)
 );
-ALTER TABLE GS_SOLICITUD
-ADD ESTADO VARCHAR(20);
+
 
 
 CREATE TABLE GS_PRODUCTOSOLICITUD (
@@ -149,7 +137,7 @@ CREATE TABLE GS_LOG_TRAZABILIDAD (
     CONSTRAINT FK_USUARIO_LOG FOREIGN KEY (IDUSUARIO) REFERENCES GS_USUARIO(IDUSUARIO)
 );
 
--- Crear los triggers para asignar automáticamente las secuencias en los campos ID
+-- Crear los triggers para asignar automÃ¡ticamente las secuencias en los campos ID
 CREATE OR REPLACE TRIGGER GS_PROGRAMAS_TRIG
 BEFORE INSERT ON GS_PROGRAMAS
 FOR EACH ROW
@@ -285,101 +273,93 @@ create or replace NONEDITIONABLE PACKAGE PKG_SOLICITUD AS
     );
 END PKG_SOLICITUD;
 
-create or replace NONEDITIONABLE PACKAGE BODY PKG_SOLICITUD AS
+CREATE OR REPLACE NONEDITIONABLE PACKAGE BODY PKG_SOLICITUD AS
+
     PROCEDURE INSERTAR_SOLICITUD(
         p_identificacion     IN VARCHAR2,
         p_codigo_interno     IN VARCHAR2,
-        p_estado_producto    IN NUMBER,
-        p_id_solicitud       IN NUMBER 
+        p_estado_producto    IN NUMBER
     ) IS
         v_id_solicitud   NUMBER;
         v_count_tercero  NUMBER;
         v_count_producto NUMBER;
-       v_estado_producto_actual VARCHAR2(20); -- Variable para almacenar el estado actual del producto
-        v_count_solicitud NUMBER;  -- Variable para verificar si ya existe una solicitud activa
+        v_estado_producto_actual VARCHAR2(20); -- Variable to store current product state
+        v_count_solicitud NUMBER;  -- Variable to check if an active request already exists
     BEGIN
 
-        
-
-        /*-- Verificar si ya existe una solicitud activa (no devuelta) para este producto e identificación
+        -- Verify if there is an active (not returned) request for this product and identification
         SELECT COUNT(*)
         INTO v_count_solicitud
         FROM GS_SOLICITUD
         WHERE IDENTIFICACION = p_identificacion
           AND CODIGOINTERNO = p_codigo_interno
-          AND ESTADO != 'Devuelto';  -- Solo verificamos solicitudes que no han sido devueltas
+          AND ESTADO != 'Devuelto';  -- Only check requests that are not returned
 
         IF v_count_solicitud > 0 THEN
-            RAISE_APPLICATION_ERROR(-20004, 'Ya existe una solicitud activa para este producto e identificación.');
+            RAISE_APPLICATION_ERROR(-20004, 'An active request already exists for this product and identification.');
         END IF;
-*/
-        -- Condicional para manejar el estado del producto
-            IF p_estado_producto = 1 THEN
-            -- Validar que el producto principal exista en GS_PRODUCTO
+
+        -- Handle product state
+        IF p_estado_producto = 1 THEN
+            -- Validate that the main product exists in GS_PRODUCTO
             SELECT COUNT(*)
             INTO v_count_producto
             FROM GS_PRODUCTO
             WHERE CODIGOINTERNO = p_codigo_interno;
 
             IF v_count_producto = 0 THEN
-                 RAISE_APPLICATION_ERROR(-20002, 'El código interno del producto no existe en GS_PRODUCTO.');
+                 RAISE_APPLICATION_ERROR(-20002, 'El codigo del producto no existe en GS_PRODUCTO.');
             END IF;
 
-            -- Validar que la identificación exista en GS_TERCERO
+            -- Validate that the identification exists in GS_TERCERO
             SELECT COUNT(*)
             INTO v_count_tercero
             FROM GS_TERCERO
             WHERE IDENTIFICACION = p_identificacion;
 
             IF v_count_tercero = 0 THEN
-                RAISE_APPLICATION_ERROR(-20001, 'La identificación no existe en GS_TERCERO.');
+                RAISE_APPLICATION_ERROR(-20001, 'La identificacion no existe en tercero');
             END IF;
-            -- Validar si el producto ya tiene el estado 'No disponible'
+
             SELECT ESTADO
             INTO v_estado_producto_actual
             FROM GS_PRODUCTO
             WHERE CODIGOINTERNO = p_codigo_interno;
 
             IF v_estado_producto_actual = 'No disponible' THEN
-                RAISE_APPLICATION_ERROR(-20003, 'El producto seleccionado está marcado como "No disponible". Seleccione otro producto.');
+                RAISE_APPLICATION_ERROR(-20003, 'The selected product is marked as "Not available". Please choose another product.');
             END IF;
- 
-            -- Insertar en GS_SOLICITUD con la fecha de hoy
+
+            -- Insert into GS_SOLICITUD with the current date
             INSERT INTO GS_SOLICITUD (IDSOLICITUD, IDENTIFICACION, CODIGOINTERNO, FECHAREGISTRO, ESTADO)
             VALUES (GS_SOLICITUD_SEQ.NEXTVAL, p_identificacion, p_codigo_interno, SYSDATE, 'No devuelto')
             RETURNING IDSOLICITUD INTO v_id_solicitud;
 
-            -- Insertar en GS_PRODUCTOSOLICITUD para el producto
+            -- Insert into GS_PRODUCTOSOLICITUD for the product
             INSERT INTO GS_PRODUCTOSOLICITUD (IDPRODUCTOSOLICITUD, CODIGOINTERNO, SOLICITUD_S)
             VALUES (GS_PRODUCTOSOLICITUD_SEQ.NEXTVAL, p_codigo_interno, v_id_solicitud);
 
-            -- Insertar en HS_PRESTAMO
+            -- Insert into HS_PRESTAMO
             INSERT INTO HS_PRESTAMO (IDPRESTAMO, IDSOLICITUD, FECHA_REGISTRO)
             VALUES (HS_PRESTAMO_SEQ.NEXTVAL, v_id_solicitud, SYSDATE);
 
-            -- Actualizar el estado del producto a No disponible
             UPDATE GS_PRODUCTO
             SET ESTADO = 'No disponible'
             WHERE CODIGOINTERNO = p_codigo_interno;
 
-            -- Actualizar el estado de la solicitud a 'No devuelto'
             UPDATE GS_SOLICITUD
             SET ESTADO = 'No devuelto'
-            WHERE  IDSOLICITUD = v_id_solicitud;
-         
-          
+            WHERE IDSOLICITUD = v_id_solicitud;
 
         ELSIF p_estado_producto = 2 THEN
-            -- Solo actualizar el estado del producto a 'Disponible'
             UPDATE GS_PRODUCTO
             SET ESTADO = 'Disponible'
-            WHERE CODIGOINTERNO = (select CODIGOINTERNO from gs_solicitud where IDSOLICITUD = p_id_solicitud group by CODIGOINTERNO );
+            WHERE CODIGOINTERNO = (SELECT CODIGOINTERNO FROM GS_SOLICITUD WHERE IDSOLICITUD = v_id_solicitud);
 
-            -- Actualizar el estado de la solicitud a 'Devuelto'
             UPDATE GS_SOLICITUD
             SET ESTADO = 'Devuelto'
-            WHERE IDSOLICITUD = p_id_solicitud; 
-           
+            WHERE IDSOLICITUD = v_id_solicitud;
+
         END IF;
 
         COMMIT;
@@ -389,15 +369,17 @@ create or replace NONEDITIONABLE PACKAGE BODY PKG_SOLICITUD AS
             ROLLBACK;
             RAISE;
     END INSERTAR_SOLICITUD;
+
 END PKG_SOLICITUD;
+
 
 ---INSERTAR DATOS EN LAS TABLAS---
 INSERT INTO GS_PROGRAMAS (codprograma, nombre_programa)
-VALUES ('100', 'ADSO');
+VALUES ('000', 'ADSO');
 INSERT INTO GS_PROGRAMAS (codprograma, nombre_programa)
-VALUES ('000', 'ESPECIES M.');
+VALUES ('001', 'ESPECIES M.');
 INSERT INTO GS_PROGRAMAS (codprograma, nombre_programa)
-VALUES ('999', 'NO TIENE');
+VALUES ('002', 'GANADERÃŒA');
 INSERT INTO GS_ROLUSUARIO ( nombre_rol)
 VALUES ('Administrador');
 INSERT INTO GS_ROLUSUARIO ( nombre_rol)
@@ -406,13 +388,17 @@ INSERT INTO GS_ROL_SOLICITANTE (IDROLSOLICITANTE, NOMBRE_ROL_SOLICITANTE)
 VALUES (GS_ROL_SOLICITANTE_SEQ.NEXTVAL,'Aprendiz');
 INSERT INTO GS_ROL_SOLICITANTE (IDROLSOLICITANTE, NOMBRE_ROL_SOLICITANTE)
 VALUES (GS_ROL_SOLICITANTE_SEQ.NEXTVAL,'Empleado');
-INSERT INTO GS_ROL_SOLICITANTE (IDROLSOLICITANTE, NOMBRE_ROL_SOLICITANTE)
-VALUES (GS_ROL_SOLICITANTE_SEQ.NEXTVAL,'Usuario');
 INSERT INTO GS_FICHA (CODFICHA, CODPROGRAMA, FECHA_INICIO, FECHA_FIN)
-VALUES ('F001', '100', TO_DATE('2024-01-01', 'YYYY-MM-DD'), TO_DATE('2024-12-31', 'YYYY-MM-DD'));
+VALUES ('F001', '000', TO_DATE('2024-01-01', 'YYYY-MM-DD'), TO_DATE('2024-12-31', 'YYYY-MM-DD'));
 INSERT INTO GS_FICHA (CODFICHA, CODPROGRAMA, FECHA_INICIO, FECHA_FIN)
-VALUES ('F002', '000', TO_DATE('2024-01-01', 'YYYY-MM-DD'), TO_DATE('2024-12-31', 'YYYY-MM-DD'));
+VALUES ('F002', '001', TO_DATE('2024-01-01', 'YYYY-MM-DD'), TO_DATE('2024-12-31', 'YYYY-MM-DD'));
 INSERT INTO GS_TIPO_PRODUCTO (NOMBRE_TIPO_PRODUCTO)
 VALUES ('Equipo');
 INSERT INTO GS_TIPO_PRODUCTO (NOMBRE_TIPO_PRODUCTO)
 VALUES ('Accesorio');
+-- InserciÃ³n de un tercero
+INSERT INTO GS_TERCERO (IDENTIFICACION, PRIMER_NOMBRE, SEGUNDO_NOMBRE, PRIMER_APELLIDO, SEGUNDO_APELLIDO, CORREO, TELEFONO, IDROL, GENERO, ACTIVO)
+VALUES ('1234', 'Sharon', 'Mishell', 'Baute', 'Davilla', 'maria.gomez@example.com', '3109876543', 1, 'F', 'S');
+-- InserciÃ³n de un usuario
+INSERT INTO GS_USUARIO (IDUSUARIO, IDENTIFICACION, PASSWORDS, IDROL, ESTADOUSUARIO)
+VALUES (GS_USUARIO_SEQ.NEXTVAL, '1234', '1234', 1, 1);
